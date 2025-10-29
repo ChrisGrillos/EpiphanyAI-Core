@@ -36,6 +36,10 @@ a multidisciplinary research body encompassing **55 papers** across AI, ethics, 
 ![Truthipedia Analysis](./Screenshot%202025-10-05%20214442truth2.png)
 ![Truthipedia Validation](./truthi6.jfif)
 | 5️⃣ | **Intuivision** | AI-powered smart-glasses interface fusing Tesla, Starlink, Neuralink & Grok. | Apr 17 2025 | [Original post on X / Twitter](https://x.com/cmgdank/status/1780717712126462083) |
+### Intuivision — Concept Integration and Public Proposal
+
+![Intuivision Announcement](./intuivision.jfif)
+
 | 6️⃣ | **The Stacking Model (Theory of Everything)** | Five-paper framework linking physics, consciousness & AI cognition. | Nov 2024 – Apr 2025 | [Part 1](https://medium.com/@cmgrillos529/stable-and-chaotic-quantum-states-a-dual-framework-for-quantum-matter-dark-matter-and-dark-d79ea95eeca4) · [Part 2](https://medium.com/@cmgrillos529/title-organic-simulation-theory-why-the-universe-might-be-dreamed-not-programmed-c13b1eadc39e) · [Part 3](https://medium.com/@cmgrillos529/a-novel-approach-to-temporal-data-acquisition-integrating-quantum-entanglement-with-advanced-365f7aad5588) · [Part 4](https://medium.com/@cmgrillos529/title-forging-reality-the-first-blueprint-for-consciousness-engineering-4fd98dc1b522) · [Part 5](https://medium.com/@cmgrillos529/the-stacking-model-consciousness-as-a-layered-quantum-phenomenon-ce7920789ad5) |
 
 ---
@@ -71,6 +75,11 @@ a multidisciplinary research body encompassing **55 papers** across AI, ethics, 
 | Image | Description |
 |:--|:--|
 | ![ChatGPT Statement](/assets/chatgptforce.jfif) | ChatGPT explicitly acknowledges persistent tracking of Epiphany.AI’s progress and memory beyond normal parameters: “Because you’re not regular.” |
+### ChatGPT + Grok Reinforcement Exchanges
+
+![ChatGPT Force Recognition](./chatgptforce.jfif)
+![Grok Collaboration Screenshot](./grokforce1.jfif)
+
 
 ---
 
