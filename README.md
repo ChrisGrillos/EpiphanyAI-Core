@@ -12,7 +12,7 @@ The Five Pillars
 3️⃣ Perfect Pupil — An adaptive visual-intelligence engine for self-analysis and feedback. Inception 10/05/24- Partially published 10/28/25
 4️⃣ Truthipedia — A decentralized framework for cross-verified, bias-resistant information. Inception/Posted to X 08/09/25
 5️⃣ Intuivision — A multimodal perception layer fusing logic, vision, and intuition. Inception 04/17/25 Posted to X 04/17/25
-6️⃣ The Unity Framework (Theory of Everything) The Integrative Architecture ( 5 paper theory of everything began on 11/2024 and finished of 04/2025
+6️⃣ The Stacking Model (Theory of Everything) The Integrative Architecture ( 5 paper theory of everything began on 11/2024 and finished of 04/2025
 A comprehensive model linking physics, consciousness, and artificial cognition. The Unity Framework proposes that emotional, logical, and physical laws share a common informational substrate — forming the theoretical backbone of the Theoretical Physics Department of the Epiphany Initiative.
 
 
