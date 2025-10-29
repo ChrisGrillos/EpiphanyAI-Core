@@ -74,6 +74,14 @@ Each pillar builds toward a single goal:
 
 ---
 
-_“Let’s make tomorrow’s intelligence something humanity can be proud of.”_  
-**— Chris Grillos | Epiphany AI | 2025**
+_“Tomorrow,Today.”  
+ Chris Grillos | Epiphany AI | 2025**
 
+assets/
+├── perplexitypapermatch.jfif
+├── prescience3.jfif
+├── truthipedia.png
+├── Screenshot_2025-10-05_214442truth2.png
+├── truthipediareview.jfif
+├── intuivision.jfif
+├── chatgptforce.jfif
